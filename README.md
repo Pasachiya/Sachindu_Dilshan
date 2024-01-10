@@ -8,7 +8,6 @@ My personal repository
 
 - Programming Languages: Python, Java , Javascript, C# 
 - Web Development: React.js , Node.js
-- ...
 
 ## 🌱 Currently Learning
 
